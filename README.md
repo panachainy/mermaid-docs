@@ -2,4 +2,4 @@
 
 ## Docs
 
-- [Mermaid](docs/flowchart.md)
+- [Mermaid](docs/dns-apprunner.md)
